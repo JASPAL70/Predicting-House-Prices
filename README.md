@@ -1,6 +1,6 @@
 # 🏡 Predicting House Prices using Machine Learning
 
-This project applies machine learning techniques to predict house prices based on various property features. It demonstrates full-stack data science skills — from data preprocessing and visualization to model training and evaluation.
+This project applies machine learning techniques to predict house prices based on multiple input features. It demonstrates end-to-end data science skills — from data preprocessing and visualization to model building and evaluation.
 
 ## 🚀 Project Goals
 
