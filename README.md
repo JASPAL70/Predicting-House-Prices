@@ -69,7 +69,7 @@ Random Forest R²: 0.8876192172184835
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Predicting-House-Prices.git
+   git clone https://github.com/JASPAL70/Predicting-House-Prices
    cd Predicting-House-Prices
    pip install -r requirements.txt
    jupyter notebook
